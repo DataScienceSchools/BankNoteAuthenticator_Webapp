@@ -14,9 +14,9 @@ st.set_page_config(
 
 st.title("Bank Note Authenticator APP")
 st.write('- Predicting whether a given banknote is authentic given a number of measures taken from a photograph.')
-with st.beta_expander(""):
+with st.beta_expander("Author"):
     st.markdown("""
-    -  Author: Bahar GK
+    -  Bahar GK
     - [Data Science Schools](https://datascienceschools.github.io/)
     """)
     st.write('---')
